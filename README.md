@@ -1,7 +1,7 @@
 # AdS-GNN - a Conformally Equivariant Graph Neural Network
 
 <p align="center">
-    <a href="https://arxiv.org/abs/2502.17019"><strong>AdS-GNN - a Conformally Equivariant Graph Neural Network</strong></a><br/>
+    <a href="https://openreview.net/forum?id=8aTDqamK5u"><strong>AdS-GNN - a Conformally Equivariant Graph Neural Network</strong></a><br/>
     <a href="https://maxxxzdn.github.io/">Max Zhdanov</a>, Nabil Iqbal, Erik Bekkers, Patrick Forrré
 </p>
 
