@@ -1,4 +1,4 @@
-# AdS-GNN - a Conformally Equivariant Graph Neural Network
+# AdS-GNN - a Conformally Equivariant Graph Neural Network (ICLR 2025 Workshop MLMP)
 
 <p align="center">
     <a href="https://openreview.net/forum?id=8aTDqamK5u"><strong>AdS-GNN - a Conformally Equivariant Graph Neural Network</strong></a><br/>
